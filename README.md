@@ -54,7 +54,7 @@ Jalankan perintah berikut untuk menghasilkan APP_KEY yang dibutuhkan oleh Larave
 php artisan key:generate
 ```
 ### SKIP LANGKAH 6 DULU AJA LANGSUNG KE LANGKAH 7 
-
+### 6. **Konfigurasi Databasel**
 Pastikan telah mengatur konfigurasi database di file .env dengan benar.
 Jika menggunakan MySQL, sesuaikan bagian berikut sesuai dengan pengaturan lu:
 ```bash
