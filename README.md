@@ -84,7 +84,7 @@ Aplikasi akan berjalan di http://127.0.0.1:8000 yang muncul di terminal.
 
 ### 9. **Menjalankan Frontend atau Tampilan UI**
 
-jalankan perintah berikut di Terminal baru untuk mengkompilasi asset dengan Vite:
+jalankan perintah berikut di Terminal baru ( **PASTIKAN MASUK KE FOLDER Chupatu DAHULU** ) untuk mengkompilasi asset dengan Vite:
 ```bash
 npm run dev
 ```
