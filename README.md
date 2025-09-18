@@ -59,7 +59,7 @@ php artisan key:generate
 ### 6. **Konfigurasi Database**
 
 Pastikan telah mengatur konfigurasi database di file .env dengan benar.
-Jika menggunakan MySQL, sesuaikan bagian berikut sesuai dengan pengaturanmu:
+Jika menggunakan MySQL, sesuaikan bagian berikut sesuai dengan pengaturan lu:
 ```bash
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -70,7 +70,7 @@ DB_PASSWORD= (BISA KOSONG DULU AJA)
 ```
 ### 7. **Jalankan Migrasi Database**
 
-Jika tabel-tabel di database belum ada, kamu bisa menjalankan migrasi untuk membuatnya:
+Jika tabel-tabel di database belum ada, Ente bisa menjalankan migrasi untuk membuatnya:
 ```bash
 php artisan migrate
 ```
@@ -121,5 +121,5 @@ Jika ada pembaruan di repositori GitHub, pastikan untuk selalu melakukan pull un
 git pull origin main
 ```
 
-
+## MATUR NUWUN 
 
