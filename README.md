@@ -115,7 +115,7 @@ git commit -m "Deskripsi perubahan"
 git push origin nama-branch
 ```
 
-5. Buat Pull Request untuk menggabungkan perubahan ke branch main.
+4. Buat Pull Request untuk menggabungkan perubahan ke branch main.
 
 📝 Catatan:
 
