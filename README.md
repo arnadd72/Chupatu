@@ -54,12 +54,6 @@ Jalankan perintah berikut untuk menghasilkan APP_KEY yang dibutuhkan oleh Larave
 php artisan key:generate
 ```
 ### SKIP LANGKAH 6 DULU AJA LANGSUNG KE LANGKAH 7 
-jika muncul 
-```sh
-Would you like to create it? (yes/no)
-```
-KETIK "Yes"
-### 6. **Konfigurasi Database**
 
 Pastikan telah mengatur konfigurasi database di file .env dengan benar.
 Jika menggunakan MySQL, sesuaikan bagian berikut sesuai dengan pengaturan lu:
@@ -77,6 +71,12 @@ Jika tabel-tabel di database belum ada, Ente bisa menjalankan migrasi untuk memb
 ```bash
 php artisan migrate
 ```
+jika muncul 
+```sh
+Would you like to create it? (yes/no)
+```
+Ketik "Yes"
+### 6. **Konfigurasi Database**
 ### 8. **jalankan Aplikasi**
 
 Untuk menjalankan aplikasi Laravel di server lokal, jalankan perintah:
@@ -93,7 +93,7 @@ npm run dev
 ```
 Ini akan menjalankan server pengembangan untuk frontend dan secara otomatis mengupdate saat ada perubahan pada file frontend.
 
-🤝 Kolaborasi
+# 🤝 Kolaborasi
 # PASTIKAN SELALU PULL SEBELUM MENGODING
 
 Untuk berkolaborasi dengan tim, pastikan untuk mengikuti langkah-langkah berikut:
