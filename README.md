@@ -6,7 +6,7 @@
 | 2311102180 | Arnanda Setya Nosa P.   |        Backend          |
 | -          |  Adit                   |        Desain           |
 | -          | Afif                    |        Frontend         |
-| -          |                         |                         |
+| -          |     Fajar               |        Tester                 |
 
 # Chupatu - Layanan Cuci Sepatu
 
