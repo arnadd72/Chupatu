@@ -22,7 +22,10 @@
                         <h1 class="text-4xl font-bold text-[#FF2D20]">Chupatu - Cuci Sepatu</h1>
                     </div>
                     <nav class="flex justify-end">
-                        <a href="{{ route('login') }}" class="px-4 py-2 text-white bg-blue-500 rounded">Login</a>
+                        {{-- Perubahan ada di sini --}}
+                        <a href="{{ route('login') }}" class="px-4 py-2 text-white bg-blue-500 rounded hover:bg-blue-600">Login</a>
+                        <a href="{{ route('register') }}" class="ml-4 px-4 py-2 text-white bg-gray-700 rounded hover:bg-gray-800">Register</a>
+                        {{-- Akhir Perubahan --}}
                     </nav>
                 </header>
 
